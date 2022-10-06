@@ -1,2 +1,2 @@
 # olympics-scrapper
-codes of the flags of all countries participating in the Olympics
+flags codes of all countries participating in the Olympics
