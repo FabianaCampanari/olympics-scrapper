@@ -10,10 +10,10 @@
   "license": "MIT",
   "dependencies": {
     "async": "^2.0.1",
-    "axios": "^0.13.1",
+    "axios": "^1.6.7",
     "express": "^4.14.0",
     "lodash": "^4.14.2",
     "sqlite3": "^3.1.4",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.6.2"
   }
 }
